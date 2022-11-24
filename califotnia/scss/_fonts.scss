@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@400;600;700&display=swap');
+// font-family: 'Cormorant Upright', serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+// font-family: 'Open Sans', sans-serif;
+
+@font-face {
+	font-family: 'BestermindRegular';
+	src: url('../fonts/bestermind/BestermindRegular.eot');
+	src: url('../fonts/bestermind/BestermindRegular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/bestermind/BestermindRegular.svg#BestermindRegular') format('svg'),
+		url('../fonts/bestermind/BestermindRegular.ttf') format('truetype'),
+		url('../fonts/bestermind/BestermindRegular.woff') format('woff'),
+		url('../fonts/bestermind/BestermindRegular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
